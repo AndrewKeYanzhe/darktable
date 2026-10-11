@@ -8,7 +8,7 @@ The aim is to test lossless-JPEG Apple ProRAW from an iPhone 14 Pro Max.
 
 | Component | Commit |
 | --- | --- |
-| darktable 5.6.2 baseline | `908607e556359a4167a63515a3ee7a8393ba7284` |
+| darktable 5.6.2 baseline | `20891f6c6fa7be995e5bf9dff9d1ee5062051773` |
 | Original RawSpeed submodule | `c835b05aecfacb7343f7c424abd620aa12116c3f` |
 | RawSpeed #963 snapshot | `5fb229779726aa45d76277f7b9c5c84f5d4183d4` |
 
